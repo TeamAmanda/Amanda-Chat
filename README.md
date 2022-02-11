@@ -14,10 +14,10 @@ A public running instance can be found on telegram as [@TheAmandabot](https://t.
 ## Installation
 
 1. `git clone https://github.com/TharukRenuja/Amanda-Chat`
-2. `cd rikachatbot`
+2. `cd amanda`
 3. `pip3 install -r requirements.txt` to install the requirements.
 4. Edit `config.py` with your own values.!
-5. Run with `python3.9 rika.py`
+5. Run with `python3.9 amanda.py`
 
 
 ## FOR HEROKU:
